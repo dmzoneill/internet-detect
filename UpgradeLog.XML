@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="internetdetect">
+</Property><Property Name="Solution File" Value="Z:\internetdetect\internetdetect.sln">
+</Property><Property Name="Date" Value="Tuesday, November 27, 2007">
+</Property><Property Name="Time" Value="21:30 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="internetdetect.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="internetdetect.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,7 @@
+Z:\internetdetect\internetdetect\obj\Debug\internetdetect.exe
+Z:\internetdetect\internetdetect\obj\Debug\internetdetect.xml
+Z:\internetdetect\internetdetect\obj\Debug\internetdetect.pdb
+Z:\internetdetect\internetdetect\obj\Debug\ResolveAssemblyReference.cache
+Z:\internetdetect\internetdetect\obj\Debug\internetdetect.Form1.resources
+Z:\internetdetect\internetdetect\obj\Debug\internetdetect.Resources.resources
+Z:\internetdetect\internetdetect\obj\Debug\internetdetect.vbproj.GenerateResource.Cache
