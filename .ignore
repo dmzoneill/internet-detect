@@ -1,0 +1,17 @@
+# Generated Visual Studio designer output
+*.Designer.vb
+
+# Build outputs (compiled binaries, XML docs, debug symbols)
+bin/
+obj/
+
+# Binary user options and image assets
+*.suo
+*.pdb
+*.wav
+*.gif
+*.dll
+*.exe
+*.resources
+*.cache
+*.resx
