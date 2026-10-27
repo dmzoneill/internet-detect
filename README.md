@@ -1,5 +1,9 @@
 # Internet Detect
 
+<p align="center">
+  <img src=".github/logo.png" alt="internet-detect logo" width="128" />
+</p>
+
 A Windows Forms tool that monitors internet connectivity.
 
 ## What it does
